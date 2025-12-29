@@ -322,7 +322,7 @@ export default function App() {
                 <p>
                   I'm Mahak, and I've been doing DevRel for about 3 years now.
                   Most of my time is spent sitting between engineering, product,
-                  and community—basically translating what developers actually
+                  and community basically translating what developers actually
                   need into something product can work with, and what
                   engineering builds into something people can understand.
                 </p>
@@ -337,7 +337,7 @@ export default function App() {
                   is pretty cool.
                 </p>
                 <p>
-                  That's DevRel to me—being the person who makes the product
+                  That's DevRel to me, being the person who makes the product
                   better while helping developers actually use it.
                 </p>
               </div>
@@ -409,17 +409,17 @@ export default function App() {
                 <p>
                   This role caught my attention because it's focused on shipping
                   content, not just doing conference circuits. Look, I've done
-                  talks and events—they're fine. But the stuff that matters?
+                  talks and events they're fine. But the stuff that matters?
                   It's the docs someone finds at 2am. The tutorial that works on
                   the first try. The changelog that makes sense.
                 </p>
                 <p>
                   Here's what I think: DevRel for open-source is different. It's
-                  not marketing theater. You're building a real feedback
-                  loop—developers tell you what's broken, you work with
-                  engineering to fix it, you document it well, and you build
-                  trust. That's what makes this kind of work interesting, and
-                  that's what I want to do more of.
+                  not marketing theater. You're building a real feedback loop,
+                  developers tell you what's broken, you work with engineering
+                  to fix it, you document it well, and you build trust. That's
+                  what makes this kind of work interesting, and that's what I
+                  want to do more of.
                 </p>
               </div>
             </div>
@@ -534,11 +534,11 @@ export default function App() {
                 <p>
                   I built Appstornauts (QA/testing community) and a DevOps/SRE
                   community from scratch. Not just "created a Discord server and
-                  posted once"—actually built them. People show up, help each
+                  posted once" actually built them. People show up, help each
                   other, and stick around.
                 </p>
                 <p>
-                  Got to 1,500+ members in two months. Completely organic—no
+                  Got to 1,500+ members in two months. Completely organic no
                   paid anything, just events people wanted to attend and content
                   that was actually useful.
                 </p>
@@ -598,7 +598,7 @@ export default function App() {
                 I don't just write docs and call it a day. I sit with
                 engineering to understand what shipped, test the examples
                 myself, and rewrite stuff until it makes sense. I don't just
-                grow communities—I listen to what people are struggling with and
+                grow communities I listen to what people are struggling with and
                 feed that to product.
               </p>
             </div>
@@ -759,7 +759,7 @@ export default function App() {
                       <span className="text-[#e4e4e7]">
                         product and engineering teams
                       </span>{" "}
-                      to surface real developer pain points—not assumptions.
+                      to surface real developer pain points not assumptions.
                     </p>
                   </div>
                 </div>
@@ -830,7 +830,7 @@ export default function App() {
 
                   <div className="text-[16px] leading-[22px]">
                     <p className="text-[#e4e4e7] mb-0">
-                      Great docs aren't just technically accurate—
+                      Great docs aren't just technically accurate
                       <span className="text-[#acacaf]">
                         they're empathetic, contextual, and structured for
                         progressive learning.
@@ -1066,7 +1066,7 @@ export default function App() {
           <div className="mb-6">
             <p className="text-[#acacaf] leading-relaxed mb-4 text-center md:text-left">
               This page was intentionally designed to be simple and clear. No
-              unnecessary flourishes, no marketing speak—just a straightforward
+              unnecessary flourishes, no marketing speak just a straightforward
               articulation of how I think about developer advocacy.
             </p>
             <p className="text-sm text-[#acacaf]/60 text-center md:text-left">
